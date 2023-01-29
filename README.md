@@ -12,9 +12,9 @@ project so I want to maximize my learning from it.
 
 # Credit
 Here are some of the places I received data from so far:
-https://www.kaggle.com/datasets/wyattowalsh/basketball/versions/211?resource=download
-https://en.hispanosnba.com/players/hall-of-fame/index
-https://en.wikipedia.org/wiki/List_of_NBA_All-Stars
-https://en.wikipedia.org/wiki/All-NBA_Team
-https://en.wikipedia.org/wiki/NBA_Most_Valuable_Player_Award
-https://en.wikipedia.org/wiki/NBA_Defensive_Player_of_the_Year_Award
+* https://www.kaggle.com/datasets/wyattowalsh/basketball/versions/211?resource=download
+* https://en.hispanosnba.com/players/hall-of-fame/index
+* https://en.wikipedia.org/wiki/List_of_NBA_All-Stars
+* https://en.wikipedia.org/wiki/All-NBA_Team
+* https://en.wikipedia.org/wiki/NBA_Most_Valuable_Player_Award
+* https://en.wikipedia.org/wiki/NBA_Defensive_Player_of_the_Year_Award
