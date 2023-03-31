@@ -5,13 +5,14 @@ I am hoping to find some insights that may have not been explored or just identi
 the highest weighing parameters in the model that I come out with.
 
 # Next Steps
-I am currently just gathering data so most of the files are raw data or data cleaning files.
-Once My data is clean I am going to start sampling my data and running some multi-variable regressions
+I have made a nice model with the outcomes located in regression/outcomes/outcome.csv
+
 My ultimate goal is to try some TensorFlow Neural Networks and such because I like this choice of
 project so I want to maximize my learning from it.
 
 # Credit
 Here are some of the places I received data from so far:
+* https://www.basketball-reference.com/
 * https://www.landofbasketball.com/awards/all_nba_teams_player_total.htm
 * https://www.kaggle.com/datasets/drgilermo/nba-players-stats
 * https://en.hispanosnba.com/players/hall-of-fame/index
