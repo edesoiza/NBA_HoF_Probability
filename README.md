@@ -1,13 +1,12 @@
 # NBA_HoF_Probability
-[WORK IN PROGRESS]
 This is an attempt to create a new model for modeling Hall of Fame Probability.
 I am hoping to find some insights that may have not been explored or just identify
 the highest weighing parameters in the model that I come out with.
 
 # Next Steps
-I have made a nice model with the outcomes located in regression/outcomes/outcome.csv
+I have made a Naive Bayes Algorithm model with the outcomes located in regression/outcomes/outcome.csv
 
-My ultimate goal is to try some TensorFlow Neural Networks and such because I like this choice of
+My ultimate goal is to try some TensorFlow Neural Networks after taking some lessons in it because I like this choice of
 project so I want to maximize my learning from it.
 
 # Credit
